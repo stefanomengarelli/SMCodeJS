@@ -1,6 +1,6 @@
 MIT License
 ===========
-SMCode Javascript Rapid Application Development Code Library
+SMCode Javascript Rapid Application Development Support Library
 Copyright (c) 2010-2024 Stefano Mengarelli - All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
