@@ -1,4 +1,5 @@
 ![msg](https://img.shields.io/badge/Language-Javascript-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/stefanomengarelli/SMCodeJS/blob/master/LICENSE)
 
 # SMCodeJS - Javascript Rapid Application Development Support Library
 
