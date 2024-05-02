@@ -1,4 +1,6 @@
-#SMCodeJS - Javascript Rapid Application Development Support Library
+![msg](https://img.shields.io/badge/Language-Javascript-blue)
+
+# SMCodeJS - Javascript Rapid Application Development Support Library
 
 The goal of the SMCodeJS project is to support Javascript development.
 
