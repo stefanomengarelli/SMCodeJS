@@ -1,8 +1,4 @@
-SMCodeJS README.MD
-==================
-
-SMCodeJS - Javascript Rapid Application Development Support Library
--------------------------------------------------------------------
+#SMCodeJS - Javascript Rapid Application Development Support Library
 
 The goal of the SMCodeJS project is to support Javascript development.
 
